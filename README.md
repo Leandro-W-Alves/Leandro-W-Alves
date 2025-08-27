@@ -18,8 +18,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> *Você pode atualizar essa lista com as tecnologias que está estudando no momento!*
-
 ---
 
 ## 📂 O que você vai encontrar por aqui:
