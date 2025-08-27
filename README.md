@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Leandro Alves!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandro-W-Alves)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
 
 ---
 
@@ -32,9 +31,8 @@
 
 Se quiser trocar uma ideia, colaborar em projetos ou só bater um papo sobre tecnologia, me chama por aqui:
 
-📧 **Email**: seuemail@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-📷 [Instagram](https://www.instagram.com/seu-instagram)  
+📧 **Email**: leandrowaalves@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
 
 ---
 
