@@ -5,7 +5,7 @@
 
 ---
 
-🎓 Tenho **17 anos** e atualmente sou **trainee na área de tecnologia**.  
+🎓 Tenho **18 anos** e atualmente sou **trainee na área de tecnologia**.  
 💻 Sou apaixonado por programação, tecnologia e tudo o que envolve desenvolvimento de software.  
 📚 Sempre em busca de aprender algo novo e crescer profissionalmente!
 
@@ -16,6 +16,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
