@@ -5,7 +5,7 @@
 
 ---
 
-🎓 Tenho **18 anos** e atualmente sou **trainee na área de tecnologia**.  
+🎓 Tenho **19 anos** e atualmente sou **trainee na área de tecnologia**.  
 💻 Sou apaixonado por programação, tecnologia e tudo o que envolve desenvolvimento de software.  
 📚 Sempre em busca de aprender algo novo e crescer profissionalmente!
 
